@@ -2,5 +2,5 @@
 
 Contents
 
-- logo: The Manifold logo (white w/ black background, black w/ white background, black w/ transparent background), in SVG and PNG.
-- wordmark: The Manifold wordmark (white w/ black background, black w/ white background, black w/ transparent background), in SVG and PNG. 
+- logo: The Manifold logo (white, black, black on transparent background), in SVG and PNG.
+- wordmark: The Manifold wordmark (white, black, black on transparent background), in SVG and PNG. 
